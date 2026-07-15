@@ -1,0 +1,6 @@
+{
+  "name": "AI Wardrobe",
+  "description": "An intelligent, sustainable personal stylist and wardrobe management assistant that organizes your clothes, builds creative combinations, recommends outfits based on weather or occasion, and helps you shop and pack smart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
